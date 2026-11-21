@@ -1,0 +1,13 @@
+Dự án bãi đỗ xe thông minh
+Mục tiêu: 
+- Kiểm soát số lượng vị trí còn trống và vị trí trên app
+- Đóng mở cửa barrier qua điện thoại
+- Đặt lịch giữ chỗ để xe
+- Tạo yêu cầu để xe qua đêm
+- Áp dụng phạt khi để xe quá thời gian quy định mà không tạo yêu cầu từ trước
+Về app:
+- Người dùng: tạo yêu cầu, theo dõi vị trí và số lượng trống, thanh toán
+- Người điều hành: phân phối, điều chỉnh, đóng mở barrier và báo cáo lỗi
+Ghi chú:
+- Người gửi xe đến quét mã để xác minh UID đăng kí qua app và lưu thời gian vào, khi đi ra thì quét mã thêm để tính thời gian đỗ và tính tiền
+- RFID có chức năng đóng mở khẩn cấp
